@@ -1,0 +1,3 @@
+---
+ช่วยสร้าง REST API สำหรับแอป Todo List โดยใช้ Node.js with Express or Next.js API Routes, in JavaScript or TypeScript. Do not connect to a database — use in-memory storage only และ README.md – with setup steps and example API calls
+---
