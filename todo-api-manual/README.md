@@ -1,5 +1,10 @@
 # Todo List REST API
 
+- ใช้ todoList ที่เป็น array ในหน่วยความจำของ server เพื่อเก็บ tasks โดยไม่ connect database
+- task จะเป็น object
+- ใช้ index ของ array แทน id
+- ใช้ Express.js
+
 ## Features
 
 - CRUD for todos
