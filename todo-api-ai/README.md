@@ -72,7 +72,6 @@ GET /todos/:id
 ```bash
 POST /todos
 Content-Type: application/json
-
 {
   "title": "Buy milk",
   "description": "2L whole milk"
